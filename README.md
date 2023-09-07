@@ -10,8 +10,8 @@ In this repo you will also find:
 - Exploratory Data analysis (EDA) on BTC
 - Blockchain API programming
 - Implementation of Chain Validations and Replacement
-- Implement a Cryptocurrency called B-coin
-- Implementing proof of work (PoW)
-- Implement a multi-signature Bitcoin address
-- Implement Public and Private Keys Generation
+- Implementation of a Cryptocurrency called B-coin
+- Implementation of proof of work (PoW)
+- Implementation of a multi-signature Bitcoin address
+- Implementation Public and Private Keys Generation
   
